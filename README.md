@@ -5,8 +5,6 @@
 
 ```
 from chatgpt_help import explain_module
-explain_module("pandas")
-
 ```
 
 ## 使用方式：
